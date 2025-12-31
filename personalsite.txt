@@ -5,3 +5,6 @@ I needed a personal site but I didn't want to fool around with over complicated 
 If you look at top tier programmers like Rob Pike, Richard Stallman, Paul Graham, and Linus Torvalds, there sites are all boring and ugly, yet these are some of the best programmers ever. So I'm taking inspiration from them.
 
 That's why I've finally launched my boring and ugly personal website. Built from scratch and hosted on my own hardware. No Vercel. No JavaScript.
+
+Check out the signed PGP message:
+https://raw.githubusercontent.com/a3l6/linkedin-posts/refs/heads/main/personalsite.txt.asc
