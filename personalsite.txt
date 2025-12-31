@@ -1,0 +1,7 @@
+Why I built an ugly site in 2025.
+
+I needed a personal site but I didn't want to fool around with over complicated and clunky JavaScript frameworks just for a single page app. Since I mainly work on backend services I decided to take a page out of the GOATS' book.
+
+If you look at top tier programmers like Rob Pike, Richard Stallman, Paul Graham, and Linus Torvalds, there sites are all boring and ugly, yet these are some of the best programmers ever. So I'm taking inspiration from them.
+
+That's why I've finally launched my boring and ugly personal website. Built from scratch and hosted on my own hardware. No Vercel. No JavaScript.
