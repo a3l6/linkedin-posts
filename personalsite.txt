@@ -6,5 +6,8 @@ If you look at top tier programmers like Rob Pike, Richard Stallman, Paul Graham
 
 That's why I've finally launched my boring and ugly personal website. Built from scratch and hosted on my own hardware. No Vercel. No JavaScript.
 
+Checkout the website:
+https://emilio-mendoza.com
+
 Check out the signed PGP message:
 https://raw.githubusercontent.com/a3l6/linkedin-posts/refs/heads/main/personalsite.txt.asc
