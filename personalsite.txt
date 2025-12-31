@@ -1,4 +1,4 @@
-Why I built an ugly site in 2025.
+Why I built an ugly site in 2025:
 
 I needed a personal site but I didn't want to fool around with over complicated and clunky JavaScript frameworks just for a single page app. Since I mainly work on backend services I decided to take a page out of the GOATS' book.
 
