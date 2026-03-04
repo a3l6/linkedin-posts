@@ -1,0 +1,11 @@
+I hate ads. I love open source.
+
+
+
+So I setup my own network wide ad blocker. Now I run Pi-Hole on my homelab and block ads across my phone, iPad, and laptop. No more trackers or malware either, now they're blocked at a DNS level. You should check out setting up your own. 
+
+Here's a great resource: https://lnkd.in/eDBxYYji
+
+This whole experience made me realize Pi-Hole is the pinnacle of FOSS. Simple software that is easy to setup and configure. It comes with a good ad blocker list out of the box and is super easy to use through their admin dashboard. The world needs more projects like this, not more AI study tools. 
+
+Build real projects that you care about.
