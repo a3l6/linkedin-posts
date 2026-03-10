@@ -1,0 +1,12 @@
+Hack Canada was amazing!
+
+
+36 hours of hacking, 800 hackers, 4 hours of sleep. The energy was insane.
+
+My project was Ts-Rx, a complete observability platform for the services on your tailnet and the tailnet itself. I worked on forking Tailscale's repo and adding a CLI tool, complete with unit testing, end to end testing, and a number of flags. 
+
+Now I'm working on a pull request to try to get my changes merged and a draft for a blog post about what I did. 
+
+Big thanks to Jay Stapleton and Mike O'Driscoll for their help and guidance in feature addition. Another big thanks to Hack Canada and the goats James Cao and Yang Xue for putting on an amazing hackathon.
+
+Check out the signed message:
