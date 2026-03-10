@@ -9,5 +9,8 @@ Now I'm working on a pull request to try to get my changes merged and a draft fo
 
 Big thanks to Jay Stapleton and Mike O'Driscoll for their help and guidance in feature addition. Another big thanks to Hack Canada and the goats James Cao and Yang Xue for putting on an amazing hackathon.
 
+Check out the Devpost:
+https://devpost.com/software/wip-kpfc03
+
 Check out the signed message:
 https://raw.githubusercontent.com/a3l6/linkedin-posts/refs/heads/main/hackcanada2026.txt.asc
