@@ -11,3 +11,4 @@ Check them out here:
 https://anthropic.skilljar.com/
 
 Check out the signed message:
+https://raw.githubusercontent.com/a3l6/linkedin-posts/refs/heads/main/anthropic.txt.asc
