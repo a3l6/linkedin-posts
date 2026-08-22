@@ -1,0 +1,14 @@
+Damn you Tailscale...
+
+
+
+
+
+You're just too good. I have spent weeks coding up a project called taildrive (https://github.com/a3l6/taildrive), a distributed file sharing system for your tailnet, combining my love for Tailscale and p2p networks. Then as I'm reading through the docs I see a method named `DriveShareList` so I decide to lookup taildrive....exact same approach to exposing the files. It's not 1:1 but it's close. I try to handle an arbitrary number of protocols, they just use webdav. Theirs is integrated right into tailscale daemon, mine is a separate service.
+
+If you work at tailscale and worked on taildrive, hit me up, I'd love to pick your brain about it.
+
+Man those engineers at tailscale are just too good.....but I probably gotta change the name now.
+
+Check out the signed message:
+
