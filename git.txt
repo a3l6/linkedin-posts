@@ -4,3 +4,6 @@ You need to leave Github...
 Git was created to be a decentralized system where you could share your code on your own servers. Today Github has taken over the market and become the default for many. But Github is riddled with uptime issues and security breaches. So I decided to take things into my own hands.
 
 I launched my own Forgejo git instance with a completely custom theme and my own k8s managed actions runners (blog post coming soon). This process taught me a lot about git, ssh, networking, kubernetes, and a lot more. I believe every developer should self-host their own git somewhere, be it a homelab or just on their device. We need to use git the way it was intended.
+
+Check out the signed message:
+https://git.emilio-mendoza.com/emiliomendoza/linkedin-posts/raw/branch/main/git.txt.asc
