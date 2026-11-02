@@ -5,5 +5,8 @@ In this new era people are generating more code than ever, but we are losing the
 
 Today I was reading through the Taildrive implementation in Tailscale's open source repository and I suspected there was a bug in a function, and trying to explain the bug in my report challenged my understanding of the entire system and led me to learn more about Taildrive and race conditions than I ever would have reading the docs or having AI explain it to me.
 
+Here's the PR if you're curious:
+https://github.com/tailscale/tailscale/pull/22127
+
 Check out the signed message:
 https://git.emilio-mendoza.com/emiliomendoza/linkedin-posts/src/branch/main/taildrive_bug.txt.asc
