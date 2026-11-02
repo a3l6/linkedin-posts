@@ -4,3 +4,6 @@ You need to read more code...
 In this new era people are generating more code than ever, but we are losing the plot. We can write code faster than ever before, but we can also write more bugs than ever before. That's why it's more important than ever to read through open source codebases and study enterprise level code and develop a good bug intuition.
 
 Today I was reading through the Taildrive implementation in Tailscale's open source repository and I suspected there was a bug in a function, and trying to explain the bug in my report challenged my understanding of the entire system and led me to learn more about Taildrive and race conditions than I ever would have reading the docs or having AI explain it to me.
+
+Check out the signed message:
+https://git.emilio-mendoza.lan/emiliomendoza/linkedin-posts/src/branch/main/taildrive_bug.txt.asc
